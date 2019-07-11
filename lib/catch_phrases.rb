@@ -13,7 +13,7 @@ def link
   puts link_status
 end
 
-def any_phrase
-  any_phrase = "Do A Barrel Roll!"
-  return "#{any_phrase}"
+def any_phrase phrase
+  puts phrase
+  
 end
