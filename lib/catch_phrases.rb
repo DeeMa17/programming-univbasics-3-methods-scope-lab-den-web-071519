@@ -15,5 +15,5 @@ end
 
 def any_phrase
   phrase = "Do A Barrel Roll!"
-  return "#{any_phrase}"
+
 end
